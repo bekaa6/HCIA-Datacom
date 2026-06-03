@@ -1,6 +1,8 @@
 # HCIA-WLAN
 
-**A1 and A2 Switcg**
+**A1 and A2 Switch**
 ```shell
-yyruyrtuy
+sysname A1
+vlan batch 43 100 200
+
 ```
