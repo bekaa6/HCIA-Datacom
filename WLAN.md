@@ -1,6 +1,7 @@
 # WLAN
 
-![Topology](images/WLAN.png)  
+![Topology]<img width="1294" height="901" alt="image" src="https://github.com/user-attachments/assets/b190a836-29c4-4fd0-b748-9ab82088e6da" />
+
 
 
 ## Switch A1 and A2
